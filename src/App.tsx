@@ -1,11 +1,12 @@
+ import './App.css'
+import Header from './components/Header'
  
-import './App.css'
 
 function App() { 
 
   return (
     <>
-      <h1>Bismillah</h1>
+      <Header/>
     </>
   )
 }
